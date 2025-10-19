@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Dey.
-[]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif)) Sayan Dey []([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif))
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Sayan Dey [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif])
 ==================================================================================================================================
 
 Full Stack Web-Developer.
