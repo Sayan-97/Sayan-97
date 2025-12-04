@@ -1,9 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan Dey.
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Sayan Dey [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif])
-==================================================================================================================================
-
-Full Stack Web-Developer.
--------------------------
+<h1 align="center">Hi 👋, I'm Sayan Dey</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 I have completed my Master's of Computer Application on 2021 and then entered the world of web-development where I self-learned HTML, CSS and JavaScript and also have very good knowledge on React.js and currently working on my skills on Node.js and API's. I also have very good knowledge on Python programming and also know Django as a Python Web-Development framework. My finished projects are already uploaded on my GitHub repositories and will keep uploading more interesting projects in the near future.
 
