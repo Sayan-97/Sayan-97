@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayan Dey</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-I have completed my Master's of Computer Application on 2021 and then entered the world of web-development where I self-learned HTML, CSS and JavaScript and also have very good knowledge on React.js and currently working on my skills on Node.js and API's. I also have very good knowledge on Python programming and also know Django as a Python Web-Development framework. My finished projects are already uploaded on my GitHub repositories and will keep uploading more interesting projects in the near future.
+### 🚀 About Me
 
-* 🌍  I'm based in Kolkata, West Bengal, India.
-* ✉️  You can contact me at [sdey4232@gmail.com](mailto:sdey4232@gmail.com)
-* 🧠  I'm learning Node.js and API's.
-* 🤔  I’m looking for help with a perfect JOB to build my career and explore and learn new technologies.
-* 🤝  I'm open to collaborating on Web-Development projects and designs.
-* ⚡  I have also some basic knowledge on Android Application as I have received Android Application Training during my Master Degree.
-* 📝  Do visit my Portfolio Website ( https://sayan97-portfolio.netlify.app/ ) to watch more exciting projects made by me.
+- 🧠 Skilled in **JavaScript, TypeScript, Node.js, React, Next.js, MongoDB** 
+- 📚 Currently strengthening **system design & deep backend patterns**
+- 💬 Ask me about **REST APIs, authentication, performance optimisation, DB design**
+- 📍 I'm based in Kolkata, West Bengal, India.
+- ✉️ You can contact me at sdey4232@gmail.com  
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
