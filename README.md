@@ -38,7 +38,7 @@
 
 #### **Package Managers**
 <p>
-  <img src="https://skillicons.dev/icons?i=bun" />
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun" />
 </p>
 
 ### Socials
