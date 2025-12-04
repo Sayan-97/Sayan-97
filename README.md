@@ -11,9 +11,14 @@
 
 ### 🛠️ Tech Stack
 
+#### **Languages & Queries**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,python,go" />
+</p>
+
 #### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,bootstrap,mui,tailwind" />
 </p>
 
 #### **Backend**
@@ -26,11 +31,15 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
-#### **DevOps & Tools**
+#### **DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws" />
 </p>
 
+#### **Package Managers**
+<p>
+  <img src="https://skillicons.dev/icons?i=bun" />
+</p>
 
 ### Socials
 
