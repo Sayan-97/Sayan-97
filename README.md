@@ -4,10 +4,11 @@
 ### 🚀 About Me
 
 - 🧠 Focused on designing and developing scalable, high-performance web applications with clean architecture and reusable components
-- 📚 Currently working on **agentic automation systems**, integrating intelligent workflows with real-world business use cases
-- 💬 Actively deepening knowledge in **system design**, **backend architecture**, and **distributed application patterns**
+- 🤖 Currently working on **agentic automation systems**, integrating intelligent workflows with real-world business use cases
+- ⚙️ Actively deepening knowledge in **system design**, **backend architecture**, and **distributed application patterns**
+- 🚀 Hands-on experience in building and consuming robust REST APIs, implementing secure authentication/authorization flows, and optimizing application performance
 - 📍 I'm based in Kolkata, West Bengal, India.
-- ✉️ You can contact me at sdey4232@gmail.com  
+- 📩 You can contact me at sdey4232@gmail.com  
 
 ### 🛠️ Tech Stack
 
