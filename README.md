@@ -3,9 +3,9 @@
 
 ### 🚀 About Me
 
-- 🧠 Skilled in **JavaScript, TypeScript, Node.js, React, Next.js, MongoDB** 
-- 📚 Currently strengthening **system design & deep backend patterns**
-- 💬 Ask me about **REST APIs, authentication, performance optimisation, DB design**
+- 🧠 Focused on designing and developing scalable, high-performance web applications with clean architecture and reusable components
+- 📚 Currently working on **agentic automation systems**, integrating intelligent workflows with real-world business use cases
+- 💬 Actively deepening knowledge in **system design**, **backend architecture**, and **distributed application patterns**
 - 📍 I'm based in Kolkata, West Bengal, India.
 - ✉️ You can contact me at sdey4232@gmail.com  
 
