@@ -42,6 +42,20 @@
   <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun" />
 </p>
 
-![Sayan-97's Stats](https://github-readme-stats.vercel.app/api?username=Sayan-97&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Sayan-97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-97&theme=react&hide_border=true)
-![Sayan-97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-97&theme=react&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sayan-97&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-97&theme=react&hide_border=true"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-97&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+      </td>
+    </tr>
+  </table>
+</div>
