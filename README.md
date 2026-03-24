@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Dey</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h3 align="center">Full-Stack Web Developer | Mobile Application Developer | Automation Engineer</h3>
 
 ### 🚀 About Me
 
