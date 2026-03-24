@@ -39,7 +39,7 @@
 
 #### **Package Managers**
 <p>
-
-![Sayan-97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-97&theme=vue-dark&hide_border=true)
   <img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun" />
 </p>
+
+![Sayan-97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-97&theme=vue-dark&hide_border=true)
