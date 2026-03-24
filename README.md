@@ -43,3 +43,4 @@
 </p>
 
 ![Sayan-97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sayan-97&theme=vue-dark&hide_border=true)
+![Sayan-97's Stats](https://github-readme-stats.vercel.app/api?username=Sayan-97&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
